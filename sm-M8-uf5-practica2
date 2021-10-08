@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+   <html>
+     <head>
+     <link rel="stylesheet" href="style.css">
+     <link rel="icon" href="tortuga.png" type="image/x-icon">
+     <meta name="Autor" content="Daniel Rubiano">
+     <meta name="description" content="En esta pagina web explicaré un poco la vida de la tortuga">
+     <script src="scrpt.js" defer></script>
+       <title>Tortuga</title>
+     </head>
+     <body>
+       <h1>¿Como vive una  tortuga?</h1>
+       <img src="https://i0.wp.com/elquintanaroo.mx/wp-content/uploads/2020/08/por-que-las-tortugas-viven-tantos-anos.jpg?fit=992%2C558&ssl=1"> 
+       <h2>¿Que es una tortuga?</h2>
+       <p>Una <b>tortuga</b> es un reptil cuya característica más notoria es la presencia de un <a href="https://es.wikipedia.org/wiki/Caparaz%C3%B3n_(tortuga)">caparazón</a> que sirve como protección de los órganos. De esta manera, a simple vista, sólo se pueden observar la cabeza, las patas y la cola del animal, ya que el resto está cubierto por el <b>caparazón</b>.</p>
+       <p><h2>¿De que se alimenta?</h2> </p>
+       <p> se <mark>alimentan</mark> sobre todo de insectos acuáticos, larvas de anfibios, gusanos, y lombrices, crustáceos y mariscos o de pequeños pescaditos vivos</p>
+       <h2>¿Cuanto viven?</h2>
+       <p>Por lo general, las tortugas viven entre <b>50 y 100 años</b>, aunque es difícil que lleguen al <a href="https://es.wikipedia.org/wiki/Siglo">siglo de vida </p>
+ </body>
+ </html>
